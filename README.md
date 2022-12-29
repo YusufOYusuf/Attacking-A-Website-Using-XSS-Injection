@@ -28,11 +28,6 @@ From the left sidebar open Firefox ESR <br/>
   
 <br />
 Type "http://localhost/dvwa/login.php" in the address bar then type in username and password <br/>
-<img src="" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
-<br />
-
-
-
 <br />
 Scroll down and select DVWA Security  <br/>
 <img src="https://i.postimg.cc/1t5KJVFp/Screen-Shot-2022-12-28-at-4-15-09-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
